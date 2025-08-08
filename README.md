@@ -34,7 +34,7 @@ This project demonstrates how to integrate **Allure Reports** into a Selenium Ja
 
 ---
 
-## 🚀 Run Instructions
+## 🚀 Run Instructions to see the Reports
 
 - Install Allure: Open your terminal and run: 'brew install allure'
 - Go to Your Project Folder: 'cd /path/to/your/project'
