@@ -47,3 +47,13 @@ This project demonstrates how to integrate **Allure Reports** into a Selenium Ja
 ```bash
 git clone https://github.com/im-ahmed-hasan/Allure-report-integration
 cd Allure-report-integration
+```
+
+---
+
+## :memo: License ##
+
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+
+
+Made with :heart: by <a href="https://github.com/im-ahmed-hasan" target="_blank">Ahmed Hasan</a>
