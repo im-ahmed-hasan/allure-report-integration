@@ -42,7 +42,7 @@ This project demonstrates how to integrate **Allure Reports** into a Selenium Ja
   
 ---
 
-### Clone the project
+### 📥 Clone the project
 
 ```bash
 git clone https://github.com/im-ahmed-hasan/Allure-report-integration
